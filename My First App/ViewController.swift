@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("git commit test")
+        view.backgroundColor = UIColor.yellow
         // Do any additional setup after loading the view, typically from a nib.
     }
 
